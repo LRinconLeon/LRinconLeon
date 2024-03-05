@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**LRinconLeon/LRinconLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋
+¡Bienvenido/a a mi perfil de GitHub!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente estoy trabajando en proyectos de desarrollo de software.
+🌱 Estoy aprendiendo constantemente nuevas tecnologías y mejorando mis habilidades en desarrollo.
+👯 Estoy interesada en colaborar en proyectos de código abierto y en equipos multidisciplinarios.
+🤔 Estoy buscando ayuda con mejorar mi conocimiento en áreas específicas de la programación.
+💬 Puedes preguntarme sobre desarrollo de software, tecnologías de la información, y cualquier cosa relacionada con la informática.
+📫 Puedes contactarme a través de mi correo electrónico: larizzamrl@gmail.com
+⚡ Dato curioso: Veo la programacion como un juego (quizas un sudoku o un cubo rubik) y me fascina encontar la solucion de cada problama que se presenta.
+¡No dudes en explorar mis repositorios y dejar tus comentarios! ¡Gracias por visitar mi perfil! 🚀
